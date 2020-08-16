@@ -100,3 +100,29 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image {
+    width:"15%";
+}
+
+#loadimage2{
+    width:"61%";
+}
+
+#loadimage3{
+    width:"24%";
+    align:"center";
+}
+
+#cbrcLabel{
+    width:"80%";
+}
+
+#cbrcLabel2{
+    width:"20%";
+    align:"left";
+}
+
+#Comments{
+    align:"center";
+}
